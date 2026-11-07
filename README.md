@@ -13,7 +13,7 @@
 - 🔗 **Microsoft (premium) login** — OAuth device-code flow, no password handling
 - 🌐 **External / Yggdrasil login** — connect to third-party auth servers
 - 📦 **One-click version install** — download and manage Minecraft versions
-- 🎨 **Native dark UI** — Tkinter-based, DPI-aware, no heavy dependencies
+- 🎨 **Native UI** — Tkinter-based, DPI-aware, no heavy dependencies
 - ⚡ **Fast startup** — packaged as a single `.exe` with PyInstaller
 
 ## 📥 Download
