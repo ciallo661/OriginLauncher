@@ -18,7 +18,7 @@
 
 ## 📥 Download
 
-Grab the latest installer from the [Releases page](https://github.com/ciallo661/OriginLauncher/releases).
+Grab the latest installer from the [123Cloud Storage]().
 
 | File | Description |
 |---|---|
