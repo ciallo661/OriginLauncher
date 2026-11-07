@@ -29,7 +29,7 @@
 
 ## 🖼️ 界面截图
 
-![截图](test picture.png)
+![截图](screenshot.png)
 
 ## 🛠️ 技术栈
 
