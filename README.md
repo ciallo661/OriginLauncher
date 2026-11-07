@@ -29,7 +29,7 @@ Grab the latest installer from the [Releases page](https://github.com/ciallo661/
 
 ## 🖼️ Screenshots
 
-![截图](test picture.png)
+![截图](screenshot.png)
 
 ## 🛠️ Built With
 
