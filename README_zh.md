@@ -10,7 +10,7 @@
 ## ✨ 功能特性
 
 - 🎮 **离线账户** — 只需输入昵称即可创建账户，无需登录
-- 🪪 **微软正版登录** — OAuth 设备码流程，不接触密码
+- 🔗 **微软正版登录** — OAuth 设备码流程，不接触密码
 - 🌐 **外置登录** — 支持连接第三方验证服务器
 - 📦 **一键安装版本** — 下载并管理 Minecraft 各版本
 - 🎨 **原生深色界面** — 基于 Tkinter，支持高 DPI，无重型依赖
@@ -18,7 +18,7 @@
 
 ## 📥 下载
 
-前往 [Releases 页面](https://github.com/your-repo/OriginLauncher/releases) 下载最新安装包。
+前往 [Releases 页面](https://github.com/ciallo661/OriginLauncher/releases) 下载最新安装包。
 
 | 文件 | 说明 |
 |---|---|
