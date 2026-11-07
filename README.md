@@ -18,7 +18,7 @@
 
 ## 📥 Download
 
-Grab the latest installer from the [123Cloud Storage]().
+Grab the latest installer from the [123Cloud Storage](https://1836855267.share.123pan.cn/123pan/iyxBTd-SRtUh?pwd=OLMC#).
 
 | File | Description |
 |---|---|
