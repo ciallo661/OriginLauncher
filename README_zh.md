@@ -18,7 +18,7 @@
 
 ## 📥 下载
 
-前往 [123云盘](https://1836855267.share.123pan.cn/123pan/iyxBTd-SRtUh?pwd=OLMC#) 下载最新安装包。
+前往 [123云盘](https://1836855267.share.123pan.cn/123pan/iyxBTd-ygIUh) 下载最新安装包。
 
 | 文件 | 说明 |
 |---|---|
